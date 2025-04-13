@@ -70,7 +70,7 @@ Tracks changes in order status over time.
 
 ```sql
 -- Admin
-CREATE USER 'MoniREAca'@'%' IDENTIFIED BY 'admin@123';
+CREATE USER 'Monica'@'%' IDENTIFIED BY 'admin@123';
 GRANT ALL PRIVILEGES ON bookstore_db.* TO 'Monica'@'%';
 
 -- Developer
