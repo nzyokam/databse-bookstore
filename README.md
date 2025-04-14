@@ -83,6 +83,9 @@ GRANT SELECT ON bookstore_db.* TO 'Wiltord'@'%';
 
 FLUSH PRIVILEGES;
 ```
+## Bookstore Er diagram
+![Bookstore ER Diagram](./bookstore.png)
+
 
 ## ✅ Notes
 
