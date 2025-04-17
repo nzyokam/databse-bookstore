@@ -1,3 +1,8 @@
+# CONTRIBUTORS 🧑🏾‍💻 👩🏾‍💻 🧑🏾‍💻
+Muusi Nguutu Nzyoka
+Wiltord Ichingwa
+Monica Kamene
+
 # 📚 Bookstore Database
 
 This project defines a relational database schema for a bookstore system. It includes tables for managing customers, books, authors, orders, addresses, and access control through user roles. The structure is normalized and supports real-world operations such as multi-author books, multiple addresses per customer, and order tracking.
