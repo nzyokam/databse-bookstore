@@ -1,7 +1,7 @@
 # CONTRIBUTORS 🧑🏾‍💻 👩🏾‍💻 🧑🏾‍💻
-Muusi Nguutu Nzyoka
-Wiltord Ichingwa
-Monica Kamene
+- Muusi Nguutu Nzyoka
+- Wiltord Ichingwa
+- Monica Kamene
 
 # 📚 Bookstore Database
 
